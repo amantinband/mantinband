@@ -1,18 +1,18 @@
-### Hey fellow dev, I'm Amichai 👋
+# Hey fellow dev, I'm Amichai 👋
 
-I'm a software engineer @ Microsoft and I love building complex stuff, especially bots and random dev tools 😎
+I'm a software engineer @ Microsoft and I love building complex stuff 😎
 
 In my free time I like making overkill infographics and share them on LinkedIn and Twitter 🙌🏼
 
 ![Overkill infographic](./overkill-inforgraphic.png)
 
-#### I recently started workfing on this project and looking for devs to join me! 👇🏼
+[![Amichai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantinband&show_icons=true&theme=github_dark)](https://github.com/mantinband/github-readme-stats)
+
+## I recently started workfing on this project and looking for devs to join me! 👇🏼
 
 Take a look at the [good first issue tasks](https://github.com/mantinband/throw/labels/good%20first%20issue) and feel free to grab one or more tasks and make it your own 💪🏼
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantinband&repo=throw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Amichai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantinband&show_icons=true&theme=github_dark)](https://github.com/mantinband/github-readme-stats)
 
 Want to see more overkill infographics?
 
