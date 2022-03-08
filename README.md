@@ -12,7 +12,7 @@ In my free time I like making overkill infographics and share them on LinkedIn a
 
 Take a look at the [good first issue tasks](https://github.com/mantinband/throw/labels/good%20first%20issue) and feel free to grab one or more tasks and make it your own 💪🏼
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantinband&repo=throw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantinband&repo=throw&theme=github_dark)](https://github.com/mantinband/throw)
 
 Want to see more overkill infographics?
 
