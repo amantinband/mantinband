@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey fellow dev, I'm Amichai 👋
 
-<!--
-**mantinband/mantinband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer @ Microsoft and I love building complex stuff, especially bots and random dev tools 😎
 
-Here are some ideas to get you started:
+In my free time I like making overkill infographics and share them on LinkedIn and Twitter 🙌🏼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Overkill infographic](./overkill-inforgraphic.png)
+
+#### I recently started workfing on this project and looking for devs to join me! 👇🏼
+
+Take a look at the [good first issue tasks](https://github.com/mantinband/throw/labels/good%20first%20issue) and feel free to grab one or more tasks and make it your own 💪🏼
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantinband&repo=throw&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Amichai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantinband&show_icons=true&theme=github_dark)](https://github.com/mantinband/github-readme-stats)
+
+Want to see more overkill infographics?
+
+[![](https://img.shields.io/badge/-amichaim-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/amichaim/) [![](https://img.shields.io/badge/-@amichaiman-%231DA1F2?style=flat-round&logo=twitter&logoColor=ffffff)](https://twitter.com/amichaiman) [![](https://img.shields.io/badge/-@mantinband-%23181717?style=flat-round&logo=github)](https://github.com/mantinband)
