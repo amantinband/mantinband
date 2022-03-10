@@ -1,6 +1,6 @@
 # Hey fellow dev, I'm Amichai 👋
 
-I'm a software engineer @ Microsoft and I love building complex stuff 😎
+Thanks for stopping by 😎
 
 In my free time I like making overkill infographics and share them on LinkedIn and Twitter 🙌🏼
 
@@ -17,3 +17,6 @@ Take a look at the [good first issue tasks](https://github.com/mantinband/throw/
 Want to see more?
 
 [![](https://img.shields.io/badge/-amichaim-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/amichaim/) [![](https://img.shields.io/badge/-@amichaiman-%231DA1F2?style=flat-round&logo=twitter&logoColor=ffffff)](https://twitter.com/amichaiman) [![](https://img.shields.io/badge/-@mantinband-%23181717?style=flat-round&logo=github)](https://github.com/mantinband)
+
+![](https://komarev.com/ghpvc/?username=mantinband&color=blue)
+
